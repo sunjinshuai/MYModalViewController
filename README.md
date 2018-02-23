@@ -13,7 +13,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Example
 
-
+![效果图](https://github.com/sunjinshuai/MYModalViewController/blob/master/Untitled.gif)
 
 ## Installation
 
